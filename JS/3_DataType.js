@@ -15,7 +15,7 @@
 //object
 //type of 
 let name= "Sai"
-let age= 25
+let age= "25"
 let isMale= true
 let bankBal = null
 let wifeName= undefined
